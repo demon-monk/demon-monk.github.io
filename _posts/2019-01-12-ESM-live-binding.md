@@ -158,7 +158,7 @@ const appUtils = require("./appUtils");
 console.log(appUtils.bUtils.b());
 ```
 
-![](https://github.com/demon-monk/markdown-imgs/blob/master/1171547281081_.pic.jpg?raw=true)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1g0iiwxsj0hj30pw0iedhs.jpg)
 💡：妥妥的循环引用，没毛病。当用`node app.js`运行时，也妥妥地报了个错`TypeError: Cannot read property 'a' of undefined`
 为啥呢？
 
